@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe
 - 👀 I’m interested in web development. 
-- 🌱 I’m currently learning HTML and CSS. In teh future, I hope to start learning Javascript. 
+- 🌱 I’m currently learning HTML and CSS. In the future, I hope to start learning Javascript. 
 - 💞️ I’m looking to collaborate on web development projects. 
 - 📫 You can reach me through my LinkedIn https://www.linkedin.com/in/joe-sayer-601144158/
